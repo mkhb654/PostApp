@@ -10,4 +10,7 @@ underscore
 iron:router
 ian:accounts-ui-bootstrap-3
 accounts-password
+accounts-twitter
+accounts-facebook
+accounts-github
 
