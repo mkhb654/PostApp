@@ -1,7 +1,7 @@
 /**
  * Created by mkaleem on 12/15/14.
  */
-template
+
 Template.postSubmit.events({
     'submit form': function(e) {
     e.preventDefault();
